@@ -1,0 +1,238 @@
+{
+    "tarefas": [
+        {
+            "titulo": "Estudar Python",
+            "prioridade": "Alta",
+            "etiquetas": [
+                "estudo"
+            ],
+            "prazo": "2025-09-25",
+            "recorrencia": null,
+            "comentarios": [],
+            "subtarefas": [],
+            "concluida": false
+        },
+        {
+            "titulo": "Casa",
+            "prioridade": "Alta",
+            "etiquetas": [
+                "casa"
+            ],
+            "prazo": null,
+            "recorrencia": null,
+            "comentarios": [],
+            "subtarefas": [],
+            "concluida": false
+        },
+        {
+            "titulo": "Fazer compras",
+            "prioridade": "Média",
+            "etiquetas": [
+                "casa"
+            ],
+            "prazo": null,
+            "recorrencia": null,
+            "comentarios": [],
+            "subtarefas": [],
+            "concluida": false
+        },
+        {
+            "titulo": "rsgt",
+            "prioridade": "Média",
+            "etiquetas": [],
+            "prazo": null,
+            "recorrencia": null,
+            "comentarios": [],
+            "subtarefas": [
+                {
+                    "titulo": "casa",
+                    "prioridade": "Média",
+                    "etiquetas": [],
+                    "prazo": null,
+                    "recorrencia": null,
+                    "comentarios": [],
+                    "subtarefas": [],
+                    "concluida": false
+                }
+            ],
+            "concluida": false
+        },
+        {
+            "titulo": "casa",
+            "prioridade": "Média",
+            "etiquetas": [
+                "casa"
+            ],
+            "prazo": null,
+            "recorrencia": null,
+            "comentarios": [],
+            "subtarefas": [],
+            "concluida": false
+        }
+    ],
+    "historico": [
+        {
+            "acao": "adicionar",
+            "tarefa": {
+                "titulo": "Estudar Python",
+                "prioridade": "Alta",
+                "etiquetas": [
+                    "estudo"
+                ],
+                "prazo": "2025-09-25",
+                "recorrencia": null,
+                "comentarios": [],
+                "subtarefas": [],
+                "concluida": false
+            }
+        },
+        {
+            "acao": "adicionar",
+            "tarefa": {
+                "titulo": "Fazer compras",
+                "prioridade": "Média",
+                "etiquetas": [
+                    "casa"
+                ],
+                "prazo": null,
+                "recorrencia": null,
+                "comentarios": [],
+                "subtarefas": [],
+                "concluida": false
+            }
+        },
+        {
+            "acao": "adicionar",
+            "tarefa": {
+                "titulo": "Estudar Python",
+                "prioridade": "Alta",
+                "etiquetas": [
+                    "estudo"
+                ],
+                "prazo": "2025-09-25",
+                "recorrencia": null,
+                "comentarios": [],
+                "subtarefas": [],
+                "concluida": false
+            }
+        },
+        {
+            "acao": "adicionar",
+            "tarefa": {
+                "titulo": "Fazer compras",
+                "prioridade": "Média",
+                "etiquetas": [
+                    "casa"
+                ],
+                "prazo": null,
+                "recorrencia": null,
+                "comentarios": [],
+                "subtarefas": [],
+                "concluida": false
+            }
+        },
+        {
+            "acao": "remover",
+            "tarefa": {
+                "titulo": "Estudar Python",
+                "prioridade": "Alta",
+                "etiquetas": [
+                    "estudo"
+                ],
+                "prazo": "2025-09-25",
+                "recorrencia": null,
+                "comentarios": [],
+                "subtarefas": [],
+                "concluida": false
+            }
+        },
+        {
+            "acao": "remover",
+            "tarefa": {
+                "titulo": "Fazer compras",
+                "prioridade": "Média",
+                "etiquetas": [
+                    "casa"
+                ],
+                "prazo": null,
+                "recorrencia": null,
+                "comentarios": [],
+                "subtarefas": [],
+                "concluida": false
+            }
+        },
+        {
+            "acao": "adicionar",
+            "tarefa": {
+                "titulo": "dhgfz",
+                "prioridade": "Alta",
+                "etiquetas": [
+                    "<gs"
+                ],
+                "prazo": null,
+                "recorrencia": null,
+                "comentarios": [],
+                "subtarefas": [],
+                "concluida": false
+            }
+        },
+        {
+            "acao": "remover",
+            "tarefa": {
+                "titulo": "dhgfz",
+                "prioridade": "Alta",
+                "etiquetas": [
+                    "<gs"
+                ],
+                "prazo": null,
+                "recorrencia": null,
+                "comentarios": [],
+                "subtarefas": [],
+                "concluida": false
+            }
+        },
+        {
+            "acao": "adicionar",
+            "tarefa": {
+                "titulo": "rsgt",
+                "prioridade": "Média",
+                "etiquetas": [],
+                "prazo": null,
+                "recorrencia": null,
+                "comentarios": [],
+                "subtarefas": [],
+                "concluida": false
+            }
+        },
+        {
+            "acao": "adicionar",
+            "tarefa": {
+                "titulo": "Casa",
+                "prioridade": "Alta",
+                "etiquetas": [
+                    "casa"
+                ],
+                "prazo": null,
+                "recorrencia": null,
+                "comentarios": [],
+                "subtarefas": [],
+                "concluida": false
+            }
+        },
+        {
+            "acao": "adicionar",
+            "tarefa": {
+                "titulo": "casa",
+                "prioridade": "Média",
+                "etiquetas": [
+                    "casa"
+                ],
+                "prazo": null,
+                "recorrencia": null,
+                "comentarios": [],
+                "subtarefas": [],
+                "concluida": false
+            }
+        }
+    ]
+}
