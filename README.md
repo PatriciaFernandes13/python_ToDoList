@@ -14,10 +14,7 @@ O projeto consiste numa aplicação em Python para gestão de tarefas pessoais (
 - Exportação para Excel via Pandas (necessário módulo openpyxl).
 
 ## 2. Tecnologias
-🐍 Python 3
-🖼 Tkinter (GUI)
-💾 JSON (armazenamento de dados)
-𓊂  Pandas + openpyxl (exportação Excel)
+🐍 Python 3 | 🖼 Tkinter (GUI) | 💾 JSON (armazenamento de dados) | 𓊂  Pandas + openpyxl (exportação Excel)
 
 ## 3. Instruções de Utilização
 1. Certifique-se de que possui Python 3 instalado.
@@ -34,13 +31,13 @@ O projeto consiste numa aplicação em Python para gestão de tarefas pessoais (
 
 7. Use o GUI (Tkinter) para:
    
- o Adicionar / Concluir / Remover Tarefas;
+    - Adicionar / Concluir / Remover Tarefas;
  
- o Gerir Subtarefas e Comentários;
+    - Gerir Subtarefas e Comentários;
  
- o Iniciar o Temporizador;
+    - Iniciar o Temporizador;
  
- o Alternar entre tema claro/escuro.
+    - Alternar entre tema claro/escuro.
 
 ## 4. Funcionalidades Implementadas
 - Criar e listar tarefas com título, prioridade, prazo e etiquetas.
