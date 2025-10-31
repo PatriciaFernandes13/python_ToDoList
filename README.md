@@ -108,7 +108,7 @@ O projeto consiste numa aplicação em Python para gestão de tarefas pessoais (
 - Adicionar o registo da data de conclusão.
 
 ## 8. Estrutura de Arquivos:
-projeto_GestorTarefas/
+python_ToDoList/
 
 ├─ 1EsqueletoBase.py     # Interface Terminal Base
 
