@@ -1,0 +1,125 @@
+{
+    "tarefas": [
+        {
+            "titulo": "Limpar a Casa",
+            "prioridade": "Média",
+            "etiquetas": [
+                "casa"
+            ],
+            "prazo": "2025-09-29",
+            "recorrencia": "semanal",
+            "comentarios": [
+                "Limpar a fundo Casa de Banho"
+            ],
+            "subtarefas": [
+                {
+                    "titulo": "Quarto",
+                    "prioridade": "Média",
+                    "etiquetas": [],
+                    "prazo": null,
+                    "recorrencia": null,
+                    "comentarios": [],
+                    "subtarefas": [],
+                    "concluida": false
+                },
+                {
+                    "titulo": "Casa de Banho",
+                    "prioridade": "Média",
+                    "etiquetas": [],
+                    "prazo": null,
+                    "recorrencia": null,
+                    "comentarios": [],
+                    "subtarefas": [],
+                    "concluida": false
+                },
+                {
+                    "titulo": "Cozinha",
+                    "prioridade": "Média",
+                    "etiquetas": [],
+                    "prazo": null,
+                    "recorrencia": null,
+                    "comentarios": [],
+                    "subtarefas": [],
+                    "concluida": false
+                }
+            ],
+            "concluida": false
+        }
+    ],
+    "historico": [
+        {
+            "acao": "adicionar",
+            "tarefa": {
+                "titulo": "Limpar a Casa",
+                "prioridade": "Baixa",
+                "etiquetas": [
+                    "casa"
+                ],
+                "prazo": "2025-09-29",
+                "recorrencia": "semanal",
+                "comentarios": [],
+                "subtarefas": [
+                    {
+                        "titulo": "quarto",
+                        "prioridade": "Média",
+                        "etiquetas": [],
+                        "prazo": null,
+                        "recorrencia": null,
+                        "comentarios": [],
+                        "subtarefas": [],
+                        "concluida": false
+                    }
+                ],
+                "concluida": false
+            }
+        },
+        {
+            "acao": "adicionar",
+            "tarefa": {
+                "titulo": "Limpar a Casa",
+                "prioridade": "Média",
+                "etiquetas": [
+                    "casa"
+                ],
+                "prazo": "2025-09-29",
+                "recorrencia": "semanal",
+                "comentarios": [
+                    "Limpar a fundo Casa de Banho"
+                ],
+                "subtarefas": [
+                    {
+                        "titulo": "Quarto",
+                        "prioridade": "Média",
+                        "etiquetas": [],
+                        "prazo": null,
+                        "recorrencia": null,
+                        "comentarios": [],
+                        "subtarefas": [],
+                        "concluida": false
+                    },
+                    {
+                        "titulo": "Casa de Banho",
+                        "prioridade": "Média",
+                        "etiquetas": [],
+                        "prazo": null,
+                        "recorrencia": null,
+                        "comentarios": [],
+                        "subtarefas": [],
+                        "concluida": false
+                    },
+                    {
+                        "titulo": "Cozinha",
+                        "prioridade": "Média",
+                        "etiquetas": [],
+                        "prazo": null,
+                        "recorrencia": null,
+                        "comentarios": [],
+                        "subtarefas": [],
+                        "concluida": false
+                    }
+                ],
+                "concluida": false
+            }
+        }
+    ]
+}
