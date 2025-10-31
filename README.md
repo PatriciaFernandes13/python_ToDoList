@@ -20,16 +20,26 @@ O projeto consiste numa aplicação em Python para gestão de tarefas pessoais (
 𓊂  Pandas + openpyxl (exportação Excel)
 
 ## 3. Instruções de Utilização
-1.Certifique-se de que possui Python 3 instalado.
+1. Certifique-se de que possui Python 3 instalado.
+   
 2. O Tkinter já vem incluído na maioria das distribuições Python.
+
 3. Instale o Pandas e numpy: pip install numpy pandas
+
 4. Instale o módulo openpyxl: pip install openpyxl.
+
 5. Execute o programa: python GestorTarefas.py.
+
 6. As tarefas salvas em BaseDados.json serão carregadas automaticamente.
+
 7. Use o GUI (Tkinter) para:
+   
  o Adicionar / Concluir / Remover Tarefas;
+ 
  o Gerir Subtarefas e Comentários;
+ 
  o Iniciar o Temporizador;
+ 
  o Alternar entre tema claro/escuro.
 
 ## 4. Funcionalidades Implementadas
@@ -102,10 +112,17 @@ O projeto consiste numa aplicação em Python para gestão de tarefas pessoais (
 
 ## 8. Estrutura de Arquivos:
 projeto_GestorTarefas/
+
 ├─ 1EsqueletoBase.py     # Interface Terminal Base
+
 ├─ 2Consola.py           # Interface Terminal Final
+
 ├─ 3Widget.py            # Interface desktop (GUI)
+
 ├─ BaseDados.json        # Base de Dados Interface desktop
+
 ├─ BaseDadosExemplo.txt  # Exemplos de Base de Dados
+
 ├─ tarefas.json          # Base de Dados Interface Terminal
+
 └─ README.pdf            # Documentação
